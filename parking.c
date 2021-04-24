@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// manos pantermarakis am:2018087
+
 #define M 40  // thesis mixanwn
 #define A 200 // theseis autokinitwn
 
